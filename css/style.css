@@ -63,7 +63,7 @@ a {
 }
 
 .neutral-star {
-    color: var(--main-bg-color)
+    color: var(--main-bg-color);
 }
 
 /* Masque un texte à l'écran mais reste lisible par les lecteurs d'écran */
